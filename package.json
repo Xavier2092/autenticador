@@ -2,7 +2,7 @@
   "name": "autenticador",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xavier2092.github.io/autenticador",
+  "homepage": "https://xavier2092.github.io/autenticador/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
